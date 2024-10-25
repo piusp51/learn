@@ -6,4 +6,6 @@
 ###### final heading six
 i just **love** to say your name
 
-this is a __typical__ exa**m**ple of what i am saying
+this is a **typical** exa**m**ple of what i am saying
+
+This is how to make a word *italic* 
