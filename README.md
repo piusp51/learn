@@ -14,4 +14,4 @@ i want a ~~line through~~ word
 
 i also want to sub word like water H<sub>2</sub>O
 
-
+2<sup>2</sup> = 4
